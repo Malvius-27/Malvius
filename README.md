@@ -15,7 +15,8 @@ herramienta recuerden que esto es educativo.
 *  git clone https://github.com/Malvius-27/Malvius
 *  cd Malvius
 *  bash malvius.sh
-                   *INSTALACIÓN TERMUX*
+                   
+                  *INSTALACIÓN TERMUX*        
 
 *  pkg update
 *  pkg install git curl php openssh -y
