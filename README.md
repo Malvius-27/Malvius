@@ -1,4 +1,4 @@
-https://i.ibb.co/b2BKtxT/github2.png       https://i.ibb.co/hWnTSWv/github1.png
+ ![alt text](https://i.ibb.co/b2BKtxT/github2.png)
                         
                         
                         DESCRIPCIÓN
